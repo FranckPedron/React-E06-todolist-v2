@@ -19,4 +19,9 @@ export default [
     label: 'Préparer des crêpes',
     done: false,
   },
+  {
+    id: 14,
+    label: 'Changer les states',
+    done: false,
+  },
 ];
